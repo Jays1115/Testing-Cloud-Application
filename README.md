@@ -2,7 +2,7 @@
 
 <b>[Tech Portfolio Home](https://github.com/Jays1115/Jalen-Smith.git)</b>
 
-# Testing-Cloud-Application
+# Testing Cloud Application for Cloud-Natiive Traits
 
 <h2>Description</h2>
 Scenario: Verizon is developing a new VPN service called Sasha, designed to support both internal employees and external customers with secure connections to the Verizon Cloud Platform. Sasha enables traffic monitoring, analytics, and vulnerability mitigation by filtering incoming traffic and enforcing proper authorization.
